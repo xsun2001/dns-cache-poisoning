@@ -1,0 +1,6 @@
+[submodule "libtins"]
+	path = libtins
+	url = git@github.com:mfontanini/libtins.git
+[submodule "spdlog"]
+	path = spdlog
+	url = https://github.com/gabime/spdlog.git
